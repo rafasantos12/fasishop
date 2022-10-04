@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63028de8ce3afb41b86db339"
+  },
+  "name": "RAFAEL SOUZA SANTOS",
+  "email": "ssouzarafaelxd@gmail.com",
+  "passwordHash": "$2b$10$GfcfDTpudArj3T9LTA5G/uf8LpE1D4uRMEr2HNNWnKIG72A/G7EhW",
+  "token": "$2b$10$UtItF4kF6Vbn9sNgb/cdRO/wWyi09Bk6D.p22nVy4yZl4NqR9DZs6",
+  "state": "63001cc61c52c82a0db15ac9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630291fde7950b3308a7cd66"
+  },
+  "name": "RAFAEL SOUZA SANTOS",
+  "email": "ssouzarafael@gmail.com",
+  "passwordHash": "$2b$10$NVLkNCWoCt9iHtH7bHwJv.dvbblIEJa4re8UZQIatkc3HpB6Mwoqm",
+  "token": "$2b$10$KHq0BUELsPtjFzZj9l8ZLuvvU0MP6YYf6PRiZxoCDLcgbKDUIGN5W",
+  "state": "630278b96ab4f8b6e3d1aff6",
+  "__v": 0
+}]

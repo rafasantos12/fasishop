@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "630291a0c97efa054c96af1d"
+  },
+  "images": [
+    {
+      "url": "0701540e-4b8d-4d2e-9026-34001064819a.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "63028de8ce3afb41b86db339",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1661112736580"
+    }
+  },
+  "title": "sdsad",
+  "category": "630049418c9c0d54309cd4ab",
+  "price": 34,
+  "priceNegotiable": false,
+  "description": "adssdadsd",
+  "views": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6302921de7950b3308a7cd67"
+  },
+  "images": [
+    {
+      "url": "75f6e157-c6b4-439f-a244-d095c7ea9df6.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630291fde7950b3308a7cd66",
+  "state": "630278b96ab4f8b6e3d1aff6",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1661112861437"
+    }
+  },
+  "title": "LIVRO TESTE",
+  "category": "63022100216b2c2c1c98df8a",
+  "price": 62,
+  "priceNegotiable": false,
+  "description": "SDDSADSADSA",
+  "views": 1,
+  "__v": 0
+}]
