@@ -1,0 +1,205 @@
+[{
+  "_id": {
+    "$oid": "63100716afe0b23f185c61dd"
+  },
+  "images": [
+    {
+      "url": "39d72a52-82a9-4463-b61b-2d00842df3ba.jpg",
+      "default": true
+    },
+    {
+      "url": "b6b7a56a-2c0b-45a6-8a4c-dd98da96984a.jpg",
+      "default": false
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1661994774458"
+    }
+  },
+  "title": "LIVROS USADOS",
+  "category": "63022100216b2c2c1c98df8a",
+  "price": 100,
+  "priceNegotiable": false,
+  "description": "LIVROS VADE MECUM USADOS EM BOAS CONDIÇÕES. (66)996926139",
+  "views": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63100760afe0b23f185c61de"
+  },
+  "images": [
+    {
+      "url": "72937f2a-46bf-49fa-9b14-d69505d5ee24.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1661994848996"
+    }
+  },
+  "title": "ODONTOLOGIA",
+  "category": "6302dc7f076a4077fda9ea22",
+  "price": 300,
+  "priceNegotiable": false,
+  "description": "SEM USO, GANHEI OUTROS MELHORES (66) 996926139",
+  "views": 28,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631007baafe0b23f185c61df"
+  },
+  "images": [
+    {
+      "url": "17b55677-9dd9-4c8a-8fca-4e84f18171b9.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1661994938590"
+    }
+  },
+  "title": "ALUGUEL",
+  "category": "6302ddf7076a4077fda9ea23",
+  "price": 1500,
+  "priceNegotiable": false,
+  "description": "1500/MES GARAGEM PARA DOIS CARROS, 3 QUARTOS SENDO UMA SUITE (66) 996926139",
+  "views": 16,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631008a4afe0b23f185c61e1"
+  },
+  "images": [
+    {
+      "url": "3b9bdbbd-f779-483a-a820-628736b257c7.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1661995172497"
+    }
+  },
+  "title": "FORMATAÇÃO",
+  "category": "6302df22076a4077fda9ea24",
+  "price": 0,
+  "priceNegotiable": true,
+  "description": "FORMATAÇÃO DE COMPUTADORES E NOTEBOOKS ! ",
+  "views": 28,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631d7cbe652ff1212c964034"
+  },
+  "images": [
+    {
+      "url": "d6eafd1d-b31e-4993-8af8-9be9a9dde496.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1662876862704"
+    }
+  },
+  "title": "LIMPEZA DE CASA",
+  "category": "6302df22076a4077fda9ea24",
+  "price": 80,
+  "priceNegotiable": false,
+  "description": "80 REAIS MEIO PERIODO",
+  "views": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631d7d2a652ff1212c964035"
+  },
+  "images": [
+    {
+      "url": "2386c7f0-b0c3-473a-ab5a-273e440b9104.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1662876970938"
+    }
+  },
+  "title": "CALCULADORA HP",
+  "category": "6302dc7f076a4077fda9ea22",
+  "price": 250,
+  "priceNegotiable": false,
+  "description": "CALCULADORA HP NOVA ! ",
+  "views": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631d7d80652ff1212c964036"
+  },
+  "images": [
+    {
+      "url": "36161db4-ce74-48fe-99d9-fa1fe97b137b.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1662877056129"
+    }
+  },
+  "title": "PC GAMER",
+  "category": "6302dc7f076a4077fda9ea22",
+  "price": 200,
+  "priceNegotiable": false,
+  "description": "PC GAMER COMPLETO",
+  "views": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631d7e54652ff1212c964038"
+  },
+  "images": [
+    {
+      "url": "ed7e0582-3cc4-4105-9af7-cb2ed95138a0.jpg",
+      "default": true
+    }
+  ],
+  "status": "true",
+  "idUser": "630fee876378dc1e00a1036d",
+  "state": "63001cc61c52c82a0db15ac9",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "1662877268382"
+    }
+  },
+  "title": "ALGUEL SALÃO DE FESTAS",
+  "category": "6302ddf7076a4077fda9ea23",
+  "price": 250,
+  "priceNegotiable": false,
+  "description": "250 REAIS A DIARIA",
+  "views": 7,
+  "__v": 0
+}]

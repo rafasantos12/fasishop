@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63022100216b2c2c1c98df8a"
+  },
+  "name": "Livros",
+  "slug": "book"
+},{
+  "_id": {
+    "$oid": "6302dc7f076a4077fda9ea22"
+  },
+  "name": "Ferramentas",
+  "slug": "tools"
+},{
+  "_id": {
+    "$oid": "6302ddf7076a4077fda9ea23"
+  },
+  "name": "Aluguel",
+  "slug": "rent"
+},{
+  "_id": {
+    "$oid": "6302df22076a4077fda9ea24"
+  },
+  "name": "Serviços",
+  "slug": "services"
+}]
