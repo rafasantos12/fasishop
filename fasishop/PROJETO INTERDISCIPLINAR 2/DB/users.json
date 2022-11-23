@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "630fee876378dc1e00a1036d"
+  },
+  "name": "Rafael Santos",
+  "email": "ssouzarafaelxd@gmail.com",
+  "passwordHash": "$2b$10$cPg0bfuBoVz7pswmQq0fuOrUNBaJdbrRHiSpP1OzgnUwGY7p1YQNW",
+  "token": "$2b$10$P.g8CvVu.1yedaG9qKKPzuKKRY2MVeR/F6bkDjEJFK5lDh8Z3f5aa",
+  "state": "63001cc61c52c82a0db15ac9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631a7bb9cf710c3abc5c3adb"
+  },
+  "name": "Rafael Neves",
+  "email": "rafaeldasgata@gmail.com",
+  "passwordHash": "$2b$10$1dx/4VeYSr6IohMM3wtJeOe8268LAxM4PN4bxtHKo52PHiKYJaoaW",
+  "token": "$2b$10$BuJLbjHKD8cz/8fojCEe4OHGnAUA1VDpS2x2jyYRWNR6ih7NJ1Azy",
+  "state": "630278956ab4f8b6e3d1aff4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633e1951cd4ca24f60da78d1"
+  },
+  "name": "Rafael Souza Santso",
+  "email": "ssouzarafaelxddd@gmail.com",
+  "passwordHash": "$2b$10$SKmLss.AJ5bfAQPk6kdCausZgqjeMHzLiI2vgQ6oAwRhuzlJqKPpG",
+  "token": "$2b$10$u6VKKu8Bi7YGs1z7vyKGLO715H4irnX9VxZQ.yI65n3K0oc7kq8ES",
+  "state": "630278ac6ab4f8b6e3d1aff5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633e1b17cd4ca24f60da7922"
+  },
+  "name": "RAFAEL",
+  "email": "rafael123@hotmail.com",
+  "passwordHash": "$2b$10$vDfNLNavq3uT7ad4wfvzHufLN4Ll8KmdnWu3iJWixxoI304GWVp6a",
+  "token": "$2b$10$sZ/3/aTgFqFz4R1KhBh1Vu.gkAq80V/SJk9wS/AWwm.fy8.YuzDNq",
+  "state": "630278b96ab4f8b6e3d1aff6",
+  "__v": 0
+}]
